@@ -3,6 +3,7 @@
 0 AUTHOR Glen Pike
 1 4 0 -16 -60 1 0 0 0 1 0 0 0 1 3703.dat
 1 4 0 -16 80 1 0 0 0 1 0 0 0 1 3703.dat
+0 !LPUB INSERT BOM
 0 STEP
 1 4 -150 -16 10 0 0 -1 0 1 0 1 0 0 3894.dat
 1 4 -150 8 10 0 0 -1 0 1 0 1 0 0 3702.dat
@@ -70,6 +71,9 @@
 1 15 30 -118 50 0 0 -1 0 1 0 1 0 0 3069a.dat
 1 4 30 -118 -30 0 0 -1 0 1 0 1 0 0 3069a.dat
 1 1 -130 -110 -30 0 0 -1 0 1 0 1 0 0 3069a.dat
-0 FILE subModel1.ldr
+0 !LPUB INSERT BOM
+0 NOFILE 
+0 FILE submodel1.ldr
 0 NAME Wire
 0 AUTHOR Glen Pike
+0 NOFILE 
